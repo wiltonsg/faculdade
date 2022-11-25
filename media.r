@@ -3,7 +3,7 @@
 # Resultado da sua nota multiplicado com o peso dela.
 # O primeiro número "fator 1" da variável, é a sua nota.
 A1 <- 100 * 30
-A2 <- 40 * 30
+A2 <- 47 * 30
 A3 <- 100 * 40
 
 # Soma dos pesos de todas as provas
