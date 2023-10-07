@@ -14,4 +14,7 @@ P = 100
 media = ((A1 * 30) + (A2 * 30) + (A3 * 40)) / P
 
 # Imprimi o resultado
-print ('Sua média é: ', media)
+if media >= 70:
+    print ('Aprovado com média: ', media)
+else:
+    print ('Reprovado com média: ', media)
